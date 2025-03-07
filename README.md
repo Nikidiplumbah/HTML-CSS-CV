@@ -1,1 +1,1 @@
-# HTML-CSS-CV
+It is an example page created with only HTTP and CSS.
